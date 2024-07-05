@@ -31,6 +31,15 @@ namespace Clases
             
         }
 
+        public Barco(float costo, bool estadoReparado, string nombre, EOperacion operacion, int tripulacion)
+        {
+            this.costo = costo;
+            this.estadoReparado = estadoReparado;
+            this.nombre = nombre;
+            this.operacion = operacion;
+            this.tripulacion = tripulacion;
+        }
+
         protected abstract void CalcularCosto();
 
         public bool CompararBarcos(Barco a, Barco b)

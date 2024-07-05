@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Clases.Barco">
-    <Position X="5" Y="0.5" Width="1.75" />
+    <Position X="5" Y="1.25" Width="1.75" />
     <Compartments>
       <Compartment Name="Nested Types" Collapsed="false" />
     </Compartments>
@@ -13,8 +13,29 @@
       </Enum>
     </NestedTypes>
     <TypeIdentifier>
-      <HashCode>QAAAAEABIAAAACCEAAAAgACBAAAAAAAAAAEQAAABAiA=</HashCode>
+      <HashCode>QAAAAEABIAAAACCEAAAAgACBAAAAAAAAAAEQAAABAAA=</HashCode>
       <FileName>Barco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.GenerarRandom">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>GenerarRandom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Marina" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Marina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clases.Pirata" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pirata.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
