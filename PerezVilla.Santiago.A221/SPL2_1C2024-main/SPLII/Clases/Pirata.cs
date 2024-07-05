@@ -25,7 +25,7 @@ namespace Clases
             }
         }
 
-        protected override void CalcularCosto()
+        public override void CalcularCosto()
         {
             int nroRandom = GenerarRandom.EnteroAleatorio(2000, 12000);
             this.costo = nroRandom;

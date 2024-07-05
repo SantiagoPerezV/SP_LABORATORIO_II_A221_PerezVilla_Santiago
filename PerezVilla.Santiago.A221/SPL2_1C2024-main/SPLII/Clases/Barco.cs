@@ -21,7 +21,7 @@ namespace Clases
         protected int tripulacion;
 
         public float Costo { get => costo;}
-        public bool EstadoReparado { get => estadoReparado;}
+        public bool EstadoReparado { get => estadoReparado; set => this.estadoReparado = value; }
         public string Nombre { get => nombre;}
         public EOperacion Operacion { get => operacion;}
         protected int Tripulacion { get => tripulacion;}
@@ -40,26 +40,17 @@ namespace Clases
             this.tripulacion = tripulacion;
         }
 
-        protected abstract void CalcularCosto();
+        public abstract void CalcularCosto();
 
-        public bool CompararBarcos(Barco a, Barco b)
+        public bool CompararBarcos(Barco a)
         {
             bool retorno = false;
-            if (a.Nombre == b.Nombre)
+            if (Nombre == a.Nombre)
             {
                 retorno = true;
             }
             return retorno;
         }
-
-        //public static bool operator ==(Barco a, Barco b)
-        //{
-        //    return a.Nombre == b.Nombre;
-        //}
-        //public static bool operator !=(Barco a, Barco b)
-        //{
-        //    return !(a == b);
-        //}
 
         public override string ToString()
         {

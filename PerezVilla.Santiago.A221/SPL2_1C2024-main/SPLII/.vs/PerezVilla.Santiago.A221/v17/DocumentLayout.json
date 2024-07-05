@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B52E228A-81ED-4594-A1FA-2188EA0D1162}|Clases\\Clases.csproj|C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\clases\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{B52E228A-81ED-4594-A1FA-2188EA0D1162}|Clases\\Clases.csproj|solutionrelative:clases\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52E228A-81ED-4594-A1FA-2188EA0D1162}|Clases\\Clases.csproj|c:\\users\\santi\\documents\\u.t.n\\u.t.n 2do cuatri\\progra y labo 2\\perezvilla.santiago.a221\\spl2_1c2024-main\\splii\\clases\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52E228A-81ED-4594-A1FA-2188EA0D1162}|Clases\\Clases.csproj|solutionrelative:clases\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52E228A-81ED-4594-A1FA-2188EA0D1162}|Clases\\Clases.csproj|c:\\users\\santi\\documents\\u.t.n\\u.t.n 2do cuatri\\progra y labo 2\\perezvilla.santiago.a221\\spl2_1c2024-main\\splii\\clases\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52E228A-81ED-4594-A1FA-2188EA0D1162}|Clases\\Clases.csproj|solutionrelative:clases\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52E228A-81ED-4594-A1FA-2188EA0D1162}|Clases\\Clases.csproj|c:\\users\\santi\\documents\\u.t.n\\u.t.n 2do cuatri\\progra y labo 2\\perezvilla.santiago.a221\\spl2_1c2024-main\\splii\\clases\\iarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52E228A-81ED-4594-A1FA-2188EA0D1162}|Clases\\Clases.csproj|solutionrelative:clases\\iarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XmlManager.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\XmlManager.cs",
+              "RelativeDocumentMoniker": "Clases\\XmlManager.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\XmlManager.cs",
+              "RelativeToolTip": "Clases\\XmlManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:00:06.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IArchivos.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\IArchivos.cs",
+              "RelativeDocumentMoniker": "Clases\\IArchivos.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\IArchivos.cs",
+              "RelativeToolTip": "Clases\\IArchivos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:57:10.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Taller.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\Taller.cs",
+              "RelativeDocumentMoniker": "Clases\\Taller.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\Taller.cs",
+              "RelativeToolTip": "Clases\\Taller.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswD4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T19:18:52.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Clases\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\ClassDiagram1.cd",
+              "RelativeToolTip": "Clases\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-07-05T18:08:20.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

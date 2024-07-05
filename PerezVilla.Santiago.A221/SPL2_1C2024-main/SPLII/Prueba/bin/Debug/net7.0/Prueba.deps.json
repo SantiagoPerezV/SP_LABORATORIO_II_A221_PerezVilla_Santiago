@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Prueba/1.0.0": {
+        "dependencies": {
+          "Clases": "1.0.0",
+          "TallerFrankyUI": "1.0.0"
+        },
+        "runtime": {
+          "Prueba.dll": {}
+        }
+      },
+      "Clases/1.0.0": {
+        "runtime": {
+          "Clases.dll": {}
+        }
+      },
+      "TallerFrankyUI/1.0.0": {
+        "runtime": {
+          "Parcial.WindowsForm.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TallerFrankyUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

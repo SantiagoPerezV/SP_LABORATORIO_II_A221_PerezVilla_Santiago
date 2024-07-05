@@ -22,12 +22,46 @@ namespace Clases
             bool retorno = false;
             foreach(Barco b in Barcos)
             {
-                if (b.CompararBarcos(b, barco))
+                if (b.CompararBarcos(barco))
                 {
                     retorno = true;
                 }
             }
             return retorno;
         }
+
+        public void IngresarBarco(Barco barco)
+        {
+            if(EncontrarBarco(barco) == false)
+            {
+                Barcos.Add(barco);
+            }
+        }
+
+        public bool Reparar(Taller taller)
+        {
+            bool retorno = false;
+            foreach (Barco b in Barcos)
+            {
+                if(b.EstadoReparado == false)
+                {
+                    b.EstadoReparado = true;
+                    retorno = true;
+                    //Falta guardar en la BD.
+                    if(b is Marina)
+                    {
+                        Marina m = (Marina)b;
+                        m.CalcularCosto();
+                    }
+                    else
+                    {
+                        Pirata p = (Pirata)b;
+                        p.CalcularCosto();
+                    }
+                }
+            }
+            return retorno;
+        }
+
     }
 }
