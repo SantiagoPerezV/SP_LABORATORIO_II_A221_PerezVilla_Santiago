@@ -19,3 +19,25 @@ C:\Users\santi\Documents\U.T.N\U.T.N 2do cuatri\Progra y Labo 2\PerezVilla.Santi
 C:\Users\santi\Documents\U.T.N\U.T.N 2do cuatri\Progra y Labo 2\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.pdb
 C:\Users\santi\Documents\U.T.N\U.T.N 2do cuatri\Progra y Labo 2\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.genruntimeconfig.cache
 C:\Users\santi\Documents\U.T.N\U.T.N 2do cuatri\Progra y Labo 2\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\ref\Prueba.dll
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\bin\Debug\net7.0\Prueba.exe
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\bin\Debug\net7.0\Prueba.deps.json
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\bin\Debug\net7.0\Prueba.runtimeconfig.json
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\bin\Debug\net7.0\Prueba.dll
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\bin\Debug\net7.0\Prueba.pdb
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\bin\Debug\net7.0\Clases.dll
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\bin\Debug\net7.0\Parcial.WindowsForm.exe
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\bin\Debug\net7.0\Clases.pdb
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\bin\Debug\net7.0\Parcial.WindowsForm.pdb
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\bin\Debug\net7.0\Parcial.WindowsForm.exe.config
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.AssemblyInfo.cs
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.sourcelink.json
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.csproj.Up2Date
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.dll
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\refint\Prueba.dll
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.pdb
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\Prueba.genruntimeconfig.cache
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Prueba\obj\Debug\net7.0\ref\Prueba.dll

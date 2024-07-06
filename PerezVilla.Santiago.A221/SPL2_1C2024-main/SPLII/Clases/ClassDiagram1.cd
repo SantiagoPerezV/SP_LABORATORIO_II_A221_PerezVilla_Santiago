@@ -1,52 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Clases.Barco">
-    <Position X="7.75" Y="1.25" Width="1.75" />
+    <Position X="9.5" Y="0.5" Width="1.75" />
     <Compartments>
       <Compartment Name="Nested Types" Collapsed="false" />
     </Compartments>
-    <NestedTypes>
-      <Enum Name="Clases.Barco.EOperacion">
-        <TypeIdentifier>
-          <NewMemberFileName>Barco.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Enum>
-    </NestedTypes>
     <TypeIdentifier>
       <HashCode>QAAAAEABIAAAACCEAAAAgACBAAAAAAAAAAEQAAABAAA=</HashCode>
       <FileName>Barco.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Clases.GenerarRandom" Collapsed="true">
-    <Position X="0.75" Y="3.5" Width="1.5" />
+    <Position X="1.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
       <FileName>GenerarRandom.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Clases.Marina" Collapsed="true">
-    <Position X="11" Y="3.25" Width="1.5" />
+  <Class Name="Clases.Marina">
+    <Position X="11.75" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
       <FileName>Marina.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Clases.Pirata" Collapsed="true">
-    <Position X="5.25" Y="3.25" Width="1.5" />
+  <Class Name="Clases.Pirata">
+    <Position X="7.25" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
       <FileName>Pirata.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Clases.Taller" Collapsed="true">
-    <Position X="1.25" Y="0.75" Width="1.5" />
+  <Class Name="Clases.Taller">
+    <Position X="5.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAACAEAAAAAAAAAEAAAAAAgAAAAIAAAAAAAAAAA=</HashCode>
       <FileName>Taller.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Clases.XmlManager" BaseTypeListCollapsed="true">
-    <Position X="3.5" Y="0.75" Width="1.5" />
+    <Position X="2.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
       <FileName>XmlManager.cs</FileName>
@@ -54,11 +47,25 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Interface Name="Clases.IArchivos">
-    <Position X="1.25" Y="2" Width="1.5" />
+    <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
       <FileName>IArchivos.cs</FileName>
     </TypeIdentifier>
   </Interface>
+  <Enum Name="Clases.EOperacion">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAECAAFAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>EOperacion.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Clases.ETipoBarco">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ETipoBarco.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

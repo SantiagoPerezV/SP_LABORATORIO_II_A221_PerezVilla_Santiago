@@ -4,41 +4,31 @@ namespace Clases
 {
     public abstract class Barco
     {
-        public enum EOperacion
-        {
-            Reparar_Mastil,
-            Pintar,
-            Cambiar_Velas,
-            Reparar_Mascaron,
-            Reparar_Casco,
-            Recargar_Cañones
-        }
 
         protected float costo;
         protected bool estadoReparado;
-        protected string nombre;
+        protected string nombre = "";
         protected EOperacion operacion;
         protected int tripulacion;
 
-        public float Costo { get => costo;}
-        public bool EstadoReparado { get => estadoReparado; set => this.estadoReparado = value; }
+        public float Costo { get => costo; set => costo = value; }
+        public bool EstadoReparado { get => estadoReparado; set => estadoReparado = value; }
         public string Nombre { get => nombre;}
         public EOperacion Operacion { get => operacion;}
-        protected int Tripulacion { get => tripulacion;}
+        public abstract int Tripulacion { get; set; }
+        public Barco(bool estadoReparado, string nombre, EOperacion operacion, int tripulacion)
+        {
+            this.estadoReparado = estadoReparado;
+            this.nombre = nombre;
+            this.operacion = operacion;
+            this.tripulacion = tripulacion;
+        }
 
         public Barco()
         {
             
         }
 
-        public Barco(float costo, bool estadoReparado, string nombre, EOperacion operacion, int tripulacion)
-        {
-            this.costo = costo;
-            this.estadoReparado = estadoReparado;
-            this.nombre = nombre;
-            this.operacion = operacion;
-            this.tripulacion = tripulacion;
-        }
 
         public abstract void CalcularCosto();
 

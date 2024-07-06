@@ -10,7 +10,7 @@ namespace Clases
     {
         List<Barco> barcos;
 
-        public List<Barco> Barcos { get => barcos;}
+        public List<Barco> Barcos { get => barcos; set => barcos = value; }
 
         public Taller()
         {
@@ -25,6 +25,7 @@ namespace Clases
                 if (b.CompararBarcos(barco))
                 {
                     retorno = true;
+                    break;
                 }
             }
             return retorno;
@@ -36,7 +37,11 @@ namespace Clases
             {
                 Barcos.Add(barco);
             }
-        }
+            else
+            {
+
+            }
+        }//Validar con una excepción cuando ya existe un mismo barco
 
         public bool Reparar(Taller taller)
         {
@@ -61,7 +66,7 @@ namespace Clases
                 }
             }
             return retorno;
-        }
+        }//Validar que el objeto que reciba sea un Taller.
 
     }
 }

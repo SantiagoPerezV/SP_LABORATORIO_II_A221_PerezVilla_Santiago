@@ -47,11 +47,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Prueba\\Prueba.csproj",
+      "projectUniqueName": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Prueba\\Prueba.csproj",
       "projectName": "Prueba",
-      "projectPath": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Prueba\\Prueba.csproj",
+      "projectPath": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Prueba\\Prueba.csproj",
       "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Prueba\\obj\\",
+      "outputPath": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Prueba\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,11 +68,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\Clases.csproj": {
-              "projectPath": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\Clases.csproj"
+            "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\Clases.csproj": {
+              "projectPath": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Clases\\Clases.csproj"
             },
-            "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\TallerFrankyUI.csproj": {
-              "projectPath": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\TallerFrankyUI.csproj"
+            "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\TallerFrankyUI.csproj": {
+              "projectPath": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\TallerFrankyUI\\TallerFrankyUI.csproj"
             }
           }
         }

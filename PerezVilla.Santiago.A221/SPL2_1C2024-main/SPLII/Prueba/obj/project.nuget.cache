@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "20i/L2IoWr3fKbZJDY6G57bBmLXdpliisOS0oFRVbqhiyesZNXGwLXZq4ID4Ri+Tby1AHa/eJrNtJ8ToFjUNCQ==",
+  "dgSpecHash": "g+p3GAz1GLHph3K7+4brnB5+x4JbaAEr2ZWEQ1ySCIgWU0DoFs1ho+BUns0NlbGXpi8M2qWCBlWctaNp3ZzKtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santi\\Documents\\U.T.N\\U.T.N 2do cuatri\\Progra y Labo 2\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Prueba\\Prueba.csproj",
+  "projectFilePath": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\SPL2_1C2024-main\\SPLII\\Prueba\\Prueba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
