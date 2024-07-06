@@ -1,7 +1,11 @@
 ﻿using System.Text;
+using System.Xml.Serialization;
 
 namespace Clases
 {
+    [Serializable]
+    [XmlInclude(typeof(Pirata))]
+    [XmlInclude(typeof(Marina))]
     public abstract class Barco
     {
 
@@ -13,8 +17,8 @@ namespace Clases
 
         public float Costo { get => costo; set => costo = value; }
         public bool EstadoReparado { get => estadoReparado; set => estadoReparado = value; }
-        public string Nombre { get => nombre;}
-        public EOperacion Operacion { get => operacion;}
+        public string Nombre { get => nombre; set => nombre = value; }
+        public EOperacion Operacion { get => operacion;set => operacion = value;}
         public abstract int Tripulacion { get; set; }
         public Barco(bool estadoReparado, string nombre, EOperacion operacion, int tripulacion)
         {

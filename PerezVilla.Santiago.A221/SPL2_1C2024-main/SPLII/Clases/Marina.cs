@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
+    [Serializable]
     public class Marina : Barco
     {
         public Marina(bool estadoReparado, string nombre, EOperacion operacion, int tripulacion) :base(estadoReparado,nombre,operacion,tripulacion)

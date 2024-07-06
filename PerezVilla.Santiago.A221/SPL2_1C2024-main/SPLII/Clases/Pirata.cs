@@ -1,5 +1,6 @@
 ﻿namespace Clases
 {
+    [Serializable]
     public class Pirata : Barco
     {
         public Pirata(bool estadoReparado, string nombre, EOperacion operacion, int tripulacion) : base(estadoReparado, nombre, operacion, tripulacion)

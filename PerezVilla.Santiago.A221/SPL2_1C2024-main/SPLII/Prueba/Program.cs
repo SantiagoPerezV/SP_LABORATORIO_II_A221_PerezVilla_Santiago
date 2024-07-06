@@ -1,4 +1,5 @@
 ﻿using Clases;
+using Clases.Excepciones;
 namespace Prueba
 {
     internal class Program
@@ -6,11 +7,11 @@ namespace Prueba
         static void Main(string[] args)
         {
             Pirata p1 = new Pirata(true, "german", EOperacion.Reparar_Mascaron, 15);
-            Pirata p2 = new Pirata(true, "germn", EOperacion.Reparar_Casco, 20);
-            Pirata p3 = new Pirata(false, "german", EOperacion.Reparar_Casco, 0);
-            Marina m1 = new Marina(true, "santiago", EOperacion.Pintar, 40);
-            Marina m2 = new Marina(true, "santiago", EOperacion.Cambiar_Velas, 30);
-            Marina m3 = new Marina(true, "santi", EOperacion.Recargar_Cañones, 0);
+            Pirata p2 = new Pirata(false, "Haolin", EOperacion.Reparar_Casco, 20);
+            Pirata p3 = new Pirata(false, "Sherman", EOperacion.Reparar_Casco, 0);
+            Marina m1 = new Marina(false, "santiago", EOperacion.Pintar, 40);
+            Marina m2 = new Marina(false, "Titanic", EOperacion.Cambiar_Velas, 30);
+            Marina m3 = new Marina(false, "Perez", EOperacion.Recargar_Cañones, 0);
 
             Taller t1 = new Taller();
 
@@ -30,18 +31,50 @@ namespace Prueba
 
             Console.WriteLine("****************");
 
-            t1.IngresarBarco(p1);
-            t1.IngresarBarco(p2);
-            t1.IngresarBarco(p3);
-            t1.IngresarBarco(m1);
-            t1.IngresarBarco(m2);
-            t1.IngresarBarco(m3);
-
-            foreach(Barco b in t1.Barcos)
+            try
             {
-                Console.WriteLine(b.ToString());
+                t1.IngresarBarco(p1);
+                t1.IngresarBarco(p2);
+                t1.IngresarBarco(m1);
+                t1.IngresarBarco(m3);
+                t1.IngresarBarco(m2);
+                t1.IngresarBarco(p3);
+            }
+            catch(BarcoEncontradoException ex)
+            {
+                Console.WriteLine(ex.Message);
             }
 
+            XmlManager ser = new XmlManager();
+            Console.WriteLine(ser.Guardar(".\\Barcos.xml", t1.Barcos));
+            Taller t2 = new Taller();
+            t2.Barcos = ser.Leer(".\\Barcos.xml");
+
+            //foreach (Barco b in t1.Barcos)
+            //{
+            //    Console.WriteLine(b.ToString());
+            //}
+
+            //foreach (Barco b in t2.Barcos)
+            //{
+            //    Console.WriteLine(b.ToString());
+            //}
+
+            //Console.WriteLine("****************");
+
+            //try
+            //{
+            //    Console.WriteLine(t1.Reparar(t1));
+            //}
+            //catch(ArgumentException ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+
+            //foreach(Barco b in t1.Barcos)
+            //{
+            //    Console.WriteLine(b.ToString());
+            //}
         }
     }
 }

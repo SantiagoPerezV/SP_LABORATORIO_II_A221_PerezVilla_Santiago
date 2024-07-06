@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Clases.Excepciones;
 
 namespace Clases
 {
@@ -39,34 +40,44 @@ namespace Clases
             }
             else
             {
-
+                throw new BarcoEncontradoException($"El barco {barco.Nombre} ya se encuentra en el taller");
             }
-        }//Validar con una excepción cuando ya existe un mismo barco
+        }
 
         public bool Reparar(Taller taller)
         {
             bool retorno = false;
-            foreach (Barco b in Barcos)
+            if(!(taller is Taller))
             {
-                if(b.EstadoReparado == false)
+                throw new ArgumentException("El parámetro dado no es de tipo Taller");
+            }
+            else
+            {
+                foreach (Barco b in taller.Barcos)
                 {
-                    b.EstadoReparado = true;
-                    retorno = true;
-                    //Falta guardar en la BD.
-                    if(b is Marina)
+                    if(b.EstadoReparado == false)
                     {
-                        Marina m = (Marina)b;
-                        m.CalcularCosto();
-                    }
-                    else
-                    {
-                        Pirata p = (Pirata)b;
-                        p.CalcularCosto();
+                        b.EstadoReparado = true;
+                        retorno = true;
+                        if(b is Marina)
+                        {
+                            Marina m = (Marina)b;
+                            m.CalcularCosto();
+                        }
+                        else
+                        {
+                            Pirata p = (Pirata)b;
+                            p.CalcularCosto();
+                        }
+                        AccesoDatos.Guardar(b);
+                        //Falta guardar en la BD. Hacer cuando termine el CRUD
+                        //b.ModificarBarco();
                     }
                 }
             }
+
             return retorno;
-        }//Validar que el objeto que reciba sea un Taller.
+        }
 
     }
 }

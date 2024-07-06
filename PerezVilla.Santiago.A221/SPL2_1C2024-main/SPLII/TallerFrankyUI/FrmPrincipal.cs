@@ -7,15 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Clases;
 
 namespace TallerFrankyUi
 {
     public partial class FrmPrincipal : Form
     {
-        
+        Taller t1;
         public FrmPrincipal()
         {
             InitializeComponent();
+            Taller t1 = new Taller();
             //TODO: Instanciar el taller
         }
 
@@ -32,7 +34,7 @@ namespace TallerFrankyUi
         private void FrmPrincipal_FormClosing(object sender, FormClosingEventArgs e)
         {
             //TODO: Preguntarle al usuario si esta seguro de salir del formulario
-           
+            Messagebox.ShowDialog();
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)

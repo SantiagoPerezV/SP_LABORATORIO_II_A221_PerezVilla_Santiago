@@ -21,3 +21,4 @@ C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\Pe
 C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Clases\obj\Debug\net7.0\refint\Clases.dll
 C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Clases\obj\Debug\net7.0\Clases.pdb
 C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Clases\obj\Debug\net7.0\ref\Clases.dll
+C:\Users\santi\Desktop\RepoParcial\SP_LABORATORIO_II_A221_PerezVilla_Santiago\PerezVilla.Santiago.A221\SPL2_1C2024-main\SPLII\Clases\obj\Debug\net7.0\Clases.csproj.AssemblyReference.cache

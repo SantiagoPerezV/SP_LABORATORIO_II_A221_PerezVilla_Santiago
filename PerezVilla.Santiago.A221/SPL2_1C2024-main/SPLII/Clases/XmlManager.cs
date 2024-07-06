@@ -12,7 +12,7 @@ namespace Clases
         public bool Guardar(string path, List<Barco> listaBarcos)
         {
             bool retorno = false;
-            using (StreamWriter streamWriter = new StreamWriter($@"{path}"))
+            using (StreamWriter streamWriter = new StreamWriter(".\\Barcos.xml"))
             {
                 XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Barco>));
                 xmlSerializer.Serialize(streamWriter, listaBarcos);
@@ -24,11 +24,13 @@ namespace Clases
         public List<Barco> Leer(string path)
         {
             List<Barco> listaBarcos = new List<Barco>();
-            using(StreamReader streamReader = new StreamReader($@"{path}"))
+
+            using(StreamReader streamReader = new StreamReader(".\\Barcos.xml"))
             {
                 XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Barco>));
                 listaBarcos = (List<Barco>)xmlSerializer.Deserialize(streamReader);
             }
+
             return listaBarcos;
         }
     }
