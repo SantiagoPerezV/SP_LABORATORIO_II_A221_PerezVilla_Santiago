@@ -29,41 +29,73 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmReparacion));
-            this.lstTaller = new System.Windows.Forms.ListBox();
-            this.SuspendLayout();
+            lstTaller = new ListBox();
+            btnEliminar = new Button();
+            btnModificar = new Button();
+            SuspendLayout();
             // 
             // lstTaller
             // 
-            this.lstTaller.FormattingEnabled = true;
-            this.lstTaller.Location = new System.Drawing.Point(172, 116);
-            this.lstTaller.Name = "lstTaller";
-            this.lstTaller.Size = new System.Drawing.Size(595, 238);
-            this.lstTaller.TabIndex = 0;
+            lstTaller.FormattingEnabled = true;
+            lstTaller.ItemHeight = 15;
+            lstTaller.Location = new Point(201, 134);
+            lstTaller.Margin = new Padding(4, 3, 4, 3);
+            lstTaller.Name = "lstTaller";
+            lstTaller.Size = new Size(694, 274);
+            lstTaller.TabIndex = 0;
+            // 
+            // btnEliminar
+            // 
+            btnEliminar.Font = new Font("Calibri", 20F, FontStyle.Regular, GraphicsUnit.Point);
+            btnEliminar.Location = new Point(584, 427);
+            btnEliminar.Margin = new Padding(4, 3, 4, 3);
+            btnEliminar.Name = "btnEliminar";
+            btnEliminar.Size = new Size(157, 45);
+            btnEliminar.TabIndex = 1;
+            btnEliminar.Text = "Eliminar";
+            btnEliminar.UseVisualStyleBackColor = true;
+            btnEliminar.Click += btnEliminar_Click;
+            // 
+            // btnModificar
+            // 
+            btnModificar.Font = new Font("Calibri", 20F, FontStyle.Regular, GraphicsUnit.Point);
+            btnModificar.Location = new Point(788, 427);
+            btnModificar.Margin = new Padding(4, 3, 4, 3);
+            btnModificar.Name = "btnModificar";
+            btnModificar.Size = new Size(185, 45);
+            btnModificar.TabIndex = 2;
+            btnModificar.Text = "Modificar";
+            btnModificar.UseVisualStyleBackColor = true;
+            btnModificar.Click += btnModificar_Click;
             // 
             // FrmReparacion
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(979, 548);
-            this.Controls.Add(this.lstTaller);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
-            this.Name = "FrmReparacion";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmReparacion";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmReparacion_FormClosing);
-            this.Load += new System.EventHandler(this.FrmReparacion_Load);
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaptionText;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            ClientSize = new Size(1142, 632);
+            Controls.Add(btnModificar);
+            Controls.Add(btnEliminar);
+            Controls.Add(lstTaller);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Margin = new Padding(4, 3, 4, 3);
+            MaximizeBox = false;
+            MinimizeBox = false;
+            Name = "FrmReparacion";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "FrmReparacion";
+            FormClosing += FrmReparacion_FormClosing;
+            Load += FrmReparacion_Load;
+            ResumeLayout(false);
         }
 
         #endregion
 
         private System.Windows.Forms.ListBox lstTaller;
+        private Button btnEliminar;
+        private Button btnModificar;
     }
 }
 

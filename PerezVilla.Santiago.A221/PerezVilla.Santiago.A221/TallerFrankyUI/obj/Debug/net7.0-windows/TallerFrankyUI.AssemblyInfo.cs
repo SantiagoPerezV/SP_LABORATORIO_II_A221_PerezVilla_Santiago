@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TallerFrankyUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be110865cee727bec0c52dd815ed95b3c3c1fad7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+002e6d98e200e2dffb2dd01ed1b19d0da6258897")]
 [assembly: System.Reflection.AssemblyProductAttribute("TallerFrankyUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TallerFrankyUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

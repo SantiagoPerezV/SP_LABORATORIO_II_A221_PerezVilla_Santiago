@@ -16,12 +16,15 @@ namespace TallerFrankyUi
     {
         Taller taller;
         XmlManager xml;
+        CrudBarco crudBarco;
+
         public FrmPrincipal()
         {
             InitializeComponent();
             //TODO: Instanciar el taller
             taller = new Taller();
             xml = new XmlManager();
+            crudBarco = new CrudBarco();
         }
 
         private void btnCargarBarco_Click(object sender, EventArgs e)
@@ -32,12 +35,7 @@ namespace TallerFrankyUi
                 try
                 {
                     taller.IngresarBarco(frmbarco.BarcoForm);
-                    StringBuilder sb = new StringBuilder();
-                    foreach(Barco b in taller.Barcos)
-                    {
-                        sb.AppendLine($"{b.ToString()}");
-                    }
-                    MessageBox.Show(sb.ToString());
+                    crudBarco.InsertarBarco(frmbarco.BarcoForm);
                 }
                 catch(BarcoEncontradoException ex)
                 {
@@ -71,10 +69,13 @@ namespace TallerFrankyUi
 
         private void FrmPrincipal_Load(object sender, EventArgs e)
         {
-            if (File.Exists(".\\Barcos.xml"))
-            {
-                taller.Barcos = xml.Leer();
-            }
+            //if (File.Exists(".\\Barcos.xml"))
+            //{
+            //    taller.Barcos = xml.Leer();
+            //}Aclarar porqué lo cambié
+
+            taller.Barcos = crudBarco.SeleccionarBarcos();
+
         }
     }
 }

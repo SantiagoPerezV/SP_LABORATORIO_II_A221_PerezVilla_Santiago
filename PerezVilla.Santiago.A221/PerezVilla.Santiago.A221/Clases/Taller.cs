@@ -70,8 +70,6 @@ namespace Clases
                             p.CalcularCosto();
                         }
                         AccesoDatos.Guardar(b);
-                        //Falta guardar en la BD. Hacer cuando termine el CRUD
-                        //b.ModificarBarco();
                     }
                 }
             }

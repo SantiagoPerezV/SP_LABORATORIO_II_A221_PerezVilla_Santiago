@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92D3F54B-EC96-4A39-9720-A746E1253CB1}|Clases\\Clases.csproj|C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\clases\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92D3F54B-EC96-4A39-9720-A746E1253CB1}|Clases\\Clases.csproj|solutionrelative:clases\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F85FFCB2-446C-4BD9-A70E-7C1C6DE325ED}|TallerFrankyUI\\TallerFrankyUI.csproj|c:\\users\\santi\\desktop\\repoparcial\\sp_laboratorio_ii_a221_perezvilla_santiago\\perezvilla.santiago.a221\\perezvilla.santiago.a221\\tallerfrankyui\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85FFCB2-446C-4BD9-A70E-7C1C6DE325ED}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92D3F54B-EC96-4A39-9720-A746E1253CB1}|Clases\\Clases.csproj|C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\clases\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92D3F54B-EC96-4A39-9720-A746E1253CB1}|Clases\\Clases.csproj|solutionrelative:clases\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F85FFCB2-446C-4BD9-A70E-7C1C6DE325ED}|TallerFrankyUI\\TallerFrankyUI.csproj|c:\\users\\santi\\desktop\\repoparcial\\sp_laboratorio_ii_a221_perezvilla_santiago\\perezvilla.santiago.a221\\perezvilla.santiago.a221\\tallerfrankyui\\frmmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85FFCB2-446C-4BD9-A70E-7C1C6DE325ED}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92D3F54B-EC96-4A39-9720-A746E1253CB1}|Clases\\Clases.csproj|c:\\users\\santi\\desktop\\repoparcial\\sp_laboratorio_ii_a221_perezvilla_santiago\\perezvilla.santiago.a221\\perezvilla.santiago.a221\\clases\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92D3F54B-EC96-4A39-9720-A746E1253CB1}|Clases\\Clases.csproj|solutionrelative:clases\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F85FFCB2-446C-4BD9-A70E-7C1C6DE325ED}|TallerFrankyUI\\TallerFrankyUI.csproj|c:\\users\\santi\\desktop\\repoparcial\\sp_laboratorio_ii_a221_perezvilla_santiago\\perezvilla.santiago.a221\\perezvilla.santiago.a221\\tallerfrankyui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F85FFCB2-446C-4BD9-A70E-7C1C6DE325ED}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92D3F54B-EC96-4A39-9720-A746E1253CB1}|Clases\\Clases.csproj|c:\\users\\santi\\desktop\\repoparcial\\sp_laboratorio_ii_a221_perezvilla_santiago\\perezvilla.santiago.a221\\perezvilla.santiago.a221\\clases\\iarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92D3F54B-EC96-4A39-9720-A746E1253CB1}|Clases\\Clases.csproj|solutionrelative:clases\\iarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F85FFCB2-446C-4BD9-A70E-7C1C6DE325ED}|TallerFrankyUI\\TallerFrankyUI.csproj|c:\\users\\santi\\desktop\\repoparcial\\sp_laboratorio_ii_a221_perezvilla_santiago\\perezvilla.santiago.a221\\perezvilla.santiago.a221\\tallerfrankyui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F85FFCB2-446C-4BD9-A70E-7C1C6DE325ED}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{92D3F54B-EC96-4A39-9720-A746E1253CB1}|Clases\\Clases.csproj|c:\\users\\santi\\desktop\\repoparcial\\sp_laboratorio_ii_a221_perezvilla_santiago\\perezvilla.santiago.a221\\perezvilla.santiago.a221\\clases\\crudbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D3F54B-EC96-4A39-9720-A746E1253CB1}|Clases\\Clases.csproj|solutionrelative:clases\\crudbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Taller.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\Clases\\Taller.cs",
-              "RelativeDocumentMoniker": "Clases\\Taller.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\Clases\\Taller.cs",
-              "RelativeToolTip": "Clases\\Taller.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAcwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T04:03:11.916Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccesoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\Clases\\AccesoDatos.cs",
-              "RelativeDocumentMoniker": "Clases\\AccesoDatos.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\Clases\\AccesoDatos.cs",
-              "RelativeToolTip": "Clases\\AccesoDatos.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T01:00:37.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IArchivos.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\Clases\\IArchivos.cs",
-              "RelativeDocumentMoniker": "Clases\\IArchivos.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\Clases\\IArchivos.cs",
-              "RelativeToolTip": "Clases\\IArchivos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T03:33:27.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "XmlManager.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\Clases\\XmlManager.cs",
-              "RelativeDocumentMoniker": "Clases\\XmlManager.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\Clases\\XmlManager.cs",
-              "RelativeToolTip": "Clases\\XmlManager.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAATAAAA",
+              "Title": "FrmReparacion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\TallerFrankyUI\\FrmReparacion.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmReparacion.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\TallerFrankyUI\\FrmReparacion.cs",
+              "RelativeToolTip": "TallerFrankyUI\\FrmReparacion.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T01:00:29.489Z",
+              "WhenOpened": "2024-07-07T18:42:42.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\TallerFrankyUI\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\TallerFrankyUI\\FrmPrincipal.cs",
-              "RelativeToolTip": "TallerFrankyUI\\FrmPrincipal.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAVAAAA",
+              "DocumentIndex": 1,
+              "Title": "FrmModificar.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\TallerFrankyUI\\FrmModificar.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmModificar.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\TallerFrankyUI\\FrmModificar.cs",
+              "RelativeToolTip": "TallerFrankyUI\\FrmModificar.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T01:06:17.427Z",
+              "WhenOpened": "2024-07-07T18:42:35.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\TallerFrankyUI\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\TallerFrankyUI\\FrmPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TallerFrankyUI\\FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "CrudBarco.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\Clases\\CrudBarco.cs",
+              "RelativeDocumentMoniker": "Clases\\CrudBarco.cs",
+              "ToolTip": "C:\\Users\\santi\\Desktop\\RepoParcial\\SP_LABORATORIO_II_A221_PerezVilla_Santiago\\PerezVilla.Santiago.A221\\PerezVilla.Santiago.A221\\Clases\\CrudBarco.cs",
+              "RelativeToolTip": "Clases\\CrudBarco.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwGMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T01:05:58.658Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-07-07T18:39:32.234Z",
+              "EditorCaption": ""
             }
           ]
         }

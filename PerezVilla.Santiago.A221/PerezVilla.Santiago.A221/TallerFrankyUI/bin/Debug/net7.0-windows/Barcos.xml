@@ -7,18 +7,25 @@
     <Operacion>Cambiar_Velas</Operacion>
     <Tripulacion>23</Tripulacion>
   </Barco>
-  <Barco xsi:type="Marina">
-    <Costo>20403</Costo>
-    <EstadoReparado>false</EstadoReparado>
-    <Nombre>Lerma</Nombre>
-    <Operacion>Reparar_Casco</Operacion>
-    <Tripulacion>57</Tripulacion>
+  <Barco xsi:type="Pirata">
+    <Costo>7000</Costo>
+    <EstadoReparado>true</EstadoReparado>
+    <Nombre>Soteldo</Nombre>
+    <Operacion>Pintar</Operacion>
+    <Tripulacion>20</Tripulacion>
   </Barco>
   <Barco xsi:type="Marina">
-    <Costo>7633</Costo>
+    <Costo>15000</Costo>
+    <EstadoReparado>true</EstadoReparado>
+    <Nombre>perez</Nombre>
+    <Operacion>Recargar_Cañones</Operacion>
+    <Tripulacion>40</Tripulacion>
+  </Barco>
+  <Barco xsi:type="Pirata">
+    <Costo>2380</Costo>
     <EstadoReparado>false</EstadoReparado>
-    <Nombre>Brasil</Nombre>
-    <Operacion>Pintar</Operacion>
-    <Tripulacion>54</Tripulacion>
+    <Nombre>german</Nombre>
+    <Operacion>Reparar_Casco</Operacion>
+    <Tripulacion>29</Tripulacion>
   </Barco>
 </ArrayOfBarco>
