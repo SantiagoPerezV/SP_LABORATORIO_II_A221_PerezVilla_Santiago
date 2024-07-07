@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Barco xsi:type="Pirata">
+    <Costo>11729</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>Jack Sparrow</Nombre>
+    <Operacion>Cambiar_Velas</Operacion>
+    <Tripulacion>23</Tripulacion>
+  </Barco>
+  <Barco xsi:type="Marina">
+    <Costo>20403</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>Lerma</Nombre>
+    <Operacion>Reparar_Casco</Operacion>
+    <Tripulacion>57</Tripulacion>
+  </Barco>
+  <Barco xsi:type="Marina">
+    <Costo>7633</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>Brasil</Nombre>
+    <Operacion>Pintar</Operacion>
+    <Tripulacion>54</Tripulacion>
+  </Barco>
+</ArrayOfBarco>
