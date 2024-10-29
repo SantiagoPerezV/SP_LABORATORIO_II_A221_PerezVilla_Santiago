@@ -5,5 +5,5 @@
 https://drive.google.com/file/d/1tPhcXqhzTy5GjgnhwZL58Gy2LKN4_DJ2/view?usp=sharing
 
 # Contacto
-Linkedin(https://www.linkedin.com/in/santiago-perez-villa/)
-Gmail(https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfsdLDMXNwppWhSwFRZsjxsKhqPcfQCVFrgRgkWqPVxDWtmSrncgSzlpdzwZxKfFzCznNB)
+[Linkedin](https://www.linkedin.com/in/santiago-perez-villa/)
+[Gmail](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfsdLDMXNwppWhSwFRZsjxsKhqPcfQCVFrgRgkWqPVxDWtmSrncgSzlpdzwZxKfFzCznNB)
